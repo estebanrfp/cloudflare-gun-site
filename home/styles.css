@@ -7261,7 +7261,7 @@ html {
 }
 
 body, html {
-  background-color: transparent;
+  background-color: #212121;
   color: #9e9e9e
 }
 
@@ -7791,7 +7791,7 @@ h3 {
 }
 
 body.theme-light {
-  background-color: transparent;
+  background-color: #f2f2f2;
   color: #2e2e2e
 }
 
@@ -7817,7 +7817,7 @@ body.theme-light .panel.panel-red .links .svg-inline--fa, body.theme-light .pane
 }
 
 body.theme-light .panel.panel-red>.tile {
-  background-color: transparent;
+  background-color: #ff003d;
   color: #fff
 }
 
