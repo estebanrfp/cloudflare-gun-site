@@ -7520,7 +7520,7 @@ body.theme-dark .panel.panel-red .links .svg-inline--fa, body.theme-dark .panel.
 }
 
 body.theme-dark .panel.panel-red>.tile {
-  background-color: transparent;
+  background-color: #ff003d;
   color: #fff
 }
 
@@ -7817,7 +7817,7 @@ body.theme-light .panel.panel-red .links .svg-inline--fa, body.theme-light .pane
 }
 
 body.theme-light .panel.panel-red>.tile {
-  background-color: #ff003d;
+  background-color: transparent;
   color: #fff
 }
 
